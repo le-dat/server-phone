@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "60afacca6ef5b902180aacaf"
+  },
+  "name": "Iphone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60afafe76ef5b902180aacb5"
+  },
+  "name": "SamSung",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60aba4e24efcc70f8892e1c6"
+  },
+  "name": "Xiaomi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6548cd47638d40e747bac70a"
+  },
+  "name": "Oppo",
+  "__v": 0
+}]

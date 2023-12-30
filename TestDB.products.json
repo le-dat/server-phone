@@ -1,0 +1,1308 @@
+[
+  {
+    "_id": {
+      "$oid": "60acf0412fb5290258597298"
+    },
+    "images": [
+      "iphone 11 Pro Max Cũ đẹp 256Gb-1.jpg",
+      "iphone 11 Pro Max Cũ đẹp 256Gb-2.jpg",
+      "iphone 11 Pro Max Cũ đẹp 256Gb-3.jpg"
+    ],
+    "price": 12990000,
+    "rating": 4.2,
+    "price_before_discount": 17990000,
+    "quantity": 757,
+    "sold": 58,
+    "view": 511,
+    "name": "iphone 11 Pro Max Cũ đẹp 256Gb",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cây lấy sim, Túi giấy cao cấp<br>Bảo hành<br> Xài đã không thích thì trả trong 7 ngày và Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành pin trọn đời, không giới hạn số lần. Bảo hành 6 tháng<br>iPhone 11 Pro Max 256GB cũ smartphone sở hữu thiết kế thời thượng với màn hình 6.5 inch lớn đẹp, cấu hình mạnh mẽ cùng con chipset A13 Bionic, máy được trang bị đến3 camera 12MP mỗi ống kính và nhiều công nghệ chụp ảnh mới.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iphone 11 Pro Max Cũ đẹp 256Gb-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T12:40:33.614Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-29T03:52:55.713Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60abaa9adbfa6e153cb9962c"
+    },
+    "images": [
+      "iPhone 11 Pro 256Gb Cũ Nguyên Bản Đẹp Như Mới-1.jpg",
+      "iPhone 11 Pro 256Gb Cũ Nguyên Bản Đẹp Như Mới-2.jpg",
+      "iPhone 11 Pro 256Gb Cũ Nguyên Bản Đẹp Như Mới-3.jpg"
+    ],
+    "price": 10190000,
+    "rating": 5,
+    "price_before_discount": 17890000,
+    "quantity": 8129,
+    "sold": 410,
+    "view": 35,
+    "name": "iPhone 11 Pro 256Gb Cũ Nguyên Bản Đẹp Như Mới",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cây lấy sim, Túi giấy cao cấp<br>Bảo hành<br>Xài đã không thích thì trả trong 7 ngày và Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành pin trọn đời, không giới hạn số lần. Bảo hành 6 tháng<br>iPhone 11 Pro 256GB Cũ là sản phẩm được thu lại từ khách bán lại (thu cũ), có nguồn gốc rõ ràng. Máy có thể đã qua bảo hành hãng hoặc sửa chữa thay thế linh kiện để đảm bảo sự ổn định cho khách khi dùng. Chính sách bảo hành 6 tháng và bảo hành pin trọn đời.<br>iPhone 11 Pro 256GB cũ có thiết kế thời thượng, màn hình rộng 5.8 inch, hiệu năng mạnh mẽ với chip A13 Bionic, dung lượng 256GB dư sức lưu trữ. Đồng thời camera vuông phía sau máy cũng gây ấn tượng mạnh cho người dùng.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 11 Pro 256Gb Cũ Nguyên Bản Đẹp Như Mới-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-24T13:31:06.769Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:53.947Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acf3712fb529025859729c"
+    },
+    "images": [
+      "iPhone 11 Cũ 128GB Nguyên Bản Đẹp Như Mới-1.jpg",
+      "iPhone 11 Cũ 128GB Nguyên Bản Đẹp Như Mới-2.jpg",
+      "iPhone 11 Cũ 128GB Nguyên Bản Đẹp Như Mới-3.jpg"
+    ],
+    "price": 8690000,
+    "rating": 4.7,
+    "price_before_discount": 13590000,
+    "quantity": 119,
+    "sold": 19,
+    "view": 256,
+    "name": "iPhone 11 Cũ 128GB Nguyên Bản Đẹp Như Mới",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cây lấy sim, Túi giấy cao cấp<br>Bảo hành<br>Xài đã không thích thì trả trong 7 ngày và Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành pin trọn đời, không giới hạn số lần. Bảo hành 6 tháng<br>iPhone 11 128GB Cũ là sản phẩm được thu lại từ khách bán lại (thu cũ), có nguồn gốc rõ ràng. Máy có thể đã qua bảo hành hãng hoặc sửa chữa thay thế linh kiện để đảm bảo sự ổn định cho khách khi dùng. Chính sách bảo hành 6 tháng và bảo hành pin trọn đời.<br>iPhone 11 128GB cũ sở hữu thiết kế thời thượng, nhiều màu sắc, cấu hình mạnh mẽ với chip A13 Bionic. iPhone 11 128GB mang lại sự trải nghiệm tốt cho người dùng thoả sức sử dụng.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 11 Cũ 128GB Nguyên Bản Đẹp Như Mới-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T12:54:09.336Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T13:17:23.238Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acff3c2fb52902585972a4"
+    },
+    "images": [
+      "iPhone 12 Pro Max Cũ Đẹp 256GB-1.jpg",
+      "iPhone 12 Pro Max Cũ Đẹp 256GB-2.jpg",
+      "iPhone 12 Pro Max Cũ Đẹp 256GB-3.jpg"
+    ],
+    "price": 15990000,
+    "rating": 4.999,
+    "price_before_discount": 26990000,
+    "quantity": 799,
+    "sold": 86,
+    "view": 182,
+    "name": "iPhone 12 Pro Max Cũ Đẹp 256GB",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cây lấy sim, Túi giấy cao cấp<br>Bảo hành<br>Xài đã không thích thì trả trong 7 ngày và Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành pin trọn đời, không giới hạn số lần. Bảo hành 6 tháng<br>iPhone 12 Pro Max 256GB Cũ là smartphone sở hữu thiết kế sang trọng, hiện đại với màn hình lớn đẹp, cấu hình mạnh mẽ cùng con chip A14 Bionic, bộ nhớ trong lên đến 256GB lưu trữ thoải mái, máy được trang bị đến 3 camera sau với nhiều công nghệ chụp ảnh mới.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 12 Pro Max Cũ Đẹp 256GB-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:44:28.020Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T07:52:33.995Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad04e32fb52902585972ad"
+    },
+    "images": [
+      "iPhone 12 Pro 256GB Cũ Đẹp Như Mới-1.jpg",
+      "iPhone 12 Pro 256GB Cũ Đẹp Như Mới-2.jpg",
+      "iPhone 12 Pro 256GB Cũ Đẹp Như Mới-3.jpg"
+    ],
+    "price": 13290000,
+    "rating": 4.95,
+    "price_before_discount": 14690000,
+    "quantity": 724,
+    "sold": 75,
+    "view": 588,
+    "name": "iPhone 12 Pro 256GB Cũ Đẹp Như Mới",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cây lấy sim, Túi giấy cao cấp<br>Bảo hành<br>Xài đã không thích thì trả trong 7 ngày và Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành pin trọn đời, không giới hạn số lần. Bảo hành 6 tháng<br>iPhone 12 Pro 256GB cũ là smartphone sở hữu thiết kế sang trọng, hiện đại. Máy được trang bị một màn hình rộng 6.1 inch, đi kèm là hiệu năng mạnh mẽ với chip A14 Bionic, bộ nhớ trong 256GB. iPhone 12 Pro có bộ ba camera cực đỉnh 12MP cùng nhiều chế độ chụp ảnh chuyên nghiệp.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 12 Pro 256GB Cũ Đẹp Như Mới-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:08:35.273Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T10:26:10.746Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad056c2fb52902585972ae"
+    },
+    "images": [
+      "iPhone 12 64GB Cũ Nguyên Bản-1.jpg",
+      "iPhone 12 64GB Cũ Nguyên Bản-2.jpg",
+      "iPhone 12 64GB Cũ Nguyên Bản-3.jpg"
+    ],
+    "price": 8590000,
+    "rating": 0,
+    "price_before_discount": 9449000,
+    "quantity": 698,
+    "sold": 0,
+    "view": 489,
+    "name": "iPhone 12 64GB Cũ Nguyên Bản",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cây lấy sim, Túi giấy cao cấp<br>Bảo hành<br>Xài đã không thích thì trả trong 7 ngày và Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành pin trọn đời, không giới hạn số lần. Bảo hành 6 tháng<br>iPhone 12 64GB Cũ là sản phẩm được thu lại từ khách bán lại (thu cũ), có nguồn gốc rõ ràng. Máy có thể đã qua bảo hành hãng hoặc sửa chữa thay thế linh kiện để đảm bảo sự ổn định cho khách khi dùng. Chính sách bảo hành 6 tháng và bảo hành pin trọn đời.<br>iPhone 12 64GB cũ chính hãng là smartphone sở hữu thiết kế sang trọng cá tính. Máy được trang bị màn hình OLED cao cấp. iPhone 12 đem đến trải nghiệm mạnh mẽ với con chip A14 Bionic, phiên bản bộ nhớ 64GB giúp máy chạy đa nhiệm tốt. Dung lượng pin trên máy cũng được nâng cấp hơn nhiều.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 12 64GB Cũ Nguyên Bản-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:10:52.503Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:24:33.062Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad061d2fb52902585972af"
+    },
+    "images": [
+      "iPhone 13 128GB Chính hãng-1.jpg",
+      "iPhone 13 128GB Chính hãng-2.jpg",
+      "iPhone 13 128GB Chính hãng-3.jpg"
+    ],
+    "price": 16690000,
+    "rating": 4.9,
+    "price_before_discount": 24990000,
+    "quantity": 107900,
+    "sold": 5650,
+    "view": 13371,
+    "name": "iPhone 13 128GB Chính hãng VN/A",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Máy mới nguyên seal 100%, chính hãng Apple Việt Nam<br>Thân máy, Hộp, Cáp, Cây lấy sim, Sách hướng dẫn, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành hư lỗi - Đổi mới trong 33 ngày. Bảo hành 12 tháng tại Trung tâm Bảo hành Chính hãng Apple<br>iPhone 13 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic sản xuất trên tiến trình 5nm. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 13 128GB Chính hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:13:49.042Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T10:04:43.615Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad06ba2fb52902585972b0"
+    },
+    "images": [
+      "iPhone 14 Pro Max 128GB Chính hãng-1.jpg",
+      "iPhone 14 Pro Max 128GB Chính hãng-2.jpg",
+      "iPhone 14 Pro Max 128GB Chính hãng-3.jpg",
+      "iPhone 14 Pro Max 128GB Chính hãng-4.jpg"
+    ],
+    "price": 26290000,
+    "rating": 4.958,
+    "price_before_discount": 36390000,
+    "quantity": 1765,
+    "sold": 497,
+    "view": 1205,
+    "name": "iPhone 14 Pro Max 128GB Chính hãng VN/A",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Máy mới nguyên seal 100%, chính hãng Apple Việt Nam<br>Thân máy, Hộp, Cáp, Cây lấy sim, Sách hướng dẫn, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành hư lỗi - Đổi mới trong 33 ngày. Bảo hành 12 tháng tại Trung tâm Bảo hành Chính hãng Apple<br>iPhone 14 Pro Max 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 14 Pro Max 128GB Chính hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:16:26.462Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T17:54:24.093Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afae906ef5b902180aacb2"
+    },
+    "images": [
+      "iPhone 14 Pro 128GB Chính hãng-1.jpg",
+      "iPhone 14 Pro 128GB Chính hãng-2.jpg",
+      "iPhone 14 Pro 128GB Chính hãng-3.jpg"
+    ],
+    "price": 23590000,
+    "rating": 5,
+    "price_before_discount": 30990000,
+    "quantity": 3091,
+    "sold": 2500,
+    "view": 3601,
+    "name": "iPhone 14 Pro 128GB Chính hãng VN/A",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Máy mới nguyên seal 100%, chính hãng Apple Việt Nam<br>Thân máy, Hộp, Cáp, Cây lấy sim, Sách hướng dẫn, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành hư lỗi - Đổi mới trong 33 ngày. Bảo hành 12 tháng tại Trung tâm Bảo hành Chính hãng Apple<br>iPhone 14 Pro  128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo bứt phá với bộ 3 camera gồm: 48MP và 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A16 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 14 Pro 128GB Chính hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:37:04.282Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:46:09.579Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afaf286ef5b902180aacb3"
+    },
+    "images": [
+      "iPhone 14 Plus 128GB Chính hãng-1.jpg",
+      "iPhone 14 Plus 128GB Chính hãng-2.jpg",
+      "iPhone 14 Plus 128GB Chính hãng-3.jpg"
+    ],
+    "price": 21390000,
+    "rating": 5,
+    "price_before_discount": 26990000,
+    "quantity": 4034,
+    "sold": 2400,
+    "view": 3754,
+    "name": "iPhone 14 Plus 128GB Chính hãng VN/A",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Máy mới nguyên seal 100%, chính hãng Apple Việt Nam<br>Thân máy, Hộp, Cáp, Cây lấy sim, Sách hướng dẫn, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành hư lỗi - Đổi mới trong 33 ngày. Bảo hành 12 tháng tại Trung tâm Bảo hành Chính hãng Apple<br>iPhone 14 Plus 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ.Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 14 Plus 128GB Chính hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:39:36.099Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:26:58.822Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afb1c56ef5b902180aacb8"
+    },
+    "images": [
+      "iPhone 14 128GB chính hãng-1.jpg",
+      "iPhone 14 128GB chính hãng-2.jpg",
+      "iPhone 14 128GB chính hãng-3.jpg"
+    ],
+    "price": 18590000,
+    "rating": 5,
+    "price_before_discount": 23990000,
+    "quantity": 1700,
+    "sold": 482,
+    "view": 11444,
+    "name": "iPhone 14 128GB chính hãng VN/A",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Máy mới nguyên seal 100%, chính hãng Apple Việt Nam<br>Thân máy, Hộp, Cáp, Cây lấy sim, Sách hướng dẫn, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành hư lỗi - Đổi mới trong 33 ngày. Bảo hành 12 tháng tại Trung tâm Bảo hành Chính hãng Apple<br>iPhone 14 128GB Chính hãng (VN/A) chính thống giá RẺ HƠN CÁC LOẠI RẺ. Với thiết kế thời thượng và các tính năng hiện đại, chiếc smartphone này sẽ mang đến cho bạn trải nghiệm đầy cảm xúc với khả năng sáng tạo vô tận từ 2 camera 12MP, kết hợp với hiệu năng mạnh mẽ từ chipset Apple A15 Bionic 6 nhân. Bên cạnh đó, với dung lượng pin lớn cho phép người dùng trải nghiệm dài lâu. Đặt ngay để có trải nghiệm mua sắm Hơn cả Chính Hãng.</p>",
+    "category": {
+      "$oid": "60afacca6ef5b902180aacaf"
+    },
+    "image": "iPhone 14 128GB chính hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:50:45.708Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:35:21.304Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afb2426ef5b902180aacb9"
+    },
+    "images": [
+      "Samsung Galaxy Z Fold5 5G 512GB Chính Hãng-1.jpg",
+      "Samsung Galaxy Z Fold5 5G 512GB Chính Hãng-2.jpg",
+      "Samsung Galaxy Z Fold5 5G 512GB Chính Hãng-3.jpg"
+    ],
+    "price": 30990000,
+    "rating": 4.2,
+    "price_before_discount": 44990000,
+    "quantity": 73,
+    "sold": 6800,
+    "view": 22510,
+    "name": "Samsung Galaxy Z Fold5 5G 512GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy Z Fold5 5G 512GB Chính Hãng (BHĐT) là máy mới, nguyên Seal 100%, sản phẩm chỉ kích hoạt trực tuyến và được bảo hành trong vòng 12 tháng.<br>Samsung Galaxy Z Fold5 5G 512GB Chính Hãng (BHĐT) là chiếc điện thoại sở hữu thiết kế nổi trội và hiện đại. Đi kèm với chúng là màn hình Dynamic AMOLED 2X với độ phân giải cao ấn tượng. Không chỉ vậy, hiệu năng của máy cũng được nâng cao hơn với chipset Snapdragon 8 Gen 2 For Galaxy độc quyền. Ngoài ra, với dung lượng pin 4.400mAh mà bạn có thể dùng xuyên suốt ngày dài.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy Z Fold5 5G 512GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:52:50.392Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:24:08.488Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60abab74dbfa6e153cb9962d"
+    },
+    "images": [
+      "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng-1.jpg",
+      "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng-2.jpg",
+      "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng-3.jpg"
+    ],
+    "price": 17590000,
+    "rating": 4.8,
+    "price_before_discount": 29990000,
+    "quantity": 46486,
+    "sold": 5652,
+    "view": 332,
+    "name": "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy Z Flip5 5G 512GB Chính Hãng (BHĐT) là máy mới, nguyên Seal 100%, sản phẩm chỉ kích hoạt trực tuyến và được bảo hành trong vòng 12 tháng.<br>Samsung Galaxy Z Flip5 5G 512GB Chính Hãng (BHĐT) là chiếc điện thoại gập sang trọng, cuốn hút ra mắt vào năm 2023. Đây là thiết bị có nhiều cải tiến mới về chất lượng màn hình đi kèm độ phân giải 1080 x 2640 pixels cao ấn tượng. Hơn nữa với vi xử lý Snapdragon 8 Gen 2 For Galaxy hứa hẹn sẽ đem đến hiệu năng xử lý mạnh mẽ, mượt mà.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy Z Flip5 5G 512GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-24T13:34:44.836Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:55.672Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acf0ec2fb5290258597299"
+    },
+    "images": [
+      "Samsung Galaxy S23 Ultra 5G 256GB-1.jpg",
+      "Samsung Galaxy S23 Ultra 5G 256GB-2.jpg",
+      "Samsung Galaxy S23 Ultra 5G 256GB-3.jpg"
+    ],
+    "price": 22490000,
+    "rating": 5,
+    "price_before_discount": 31990000,
+    "quantity": 234,
+    "sold": 24,
+    "view": 461,
+    "name": "Samsung Galaxy S23 Ultra 5G 256GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy S23 Ultra 5G 256GB sở hữu thiết kế cao cấp với màn hình 6.8 inch độ phân giải 3088 x 1440 pixels, tấm nền Dynamic AMOLED 2X tần số quét 120Hz, cấu hình mạnh mẽ với vi xử lý Snapdragon 8 Gen 2. Camera chính 200MP mang lại khả năng chụp ảnh đỉnh cao hỗ trợ nhiều chế độ chụp ảnh khác nhau.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy S23 Ultra 5G 256GB-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T12:43:24.537Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-22T05:03:09.692Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acf26c2fb529025859729b"
+    },
+    "images": [
+      "Samsung Galaxy A54 5G 256GB Chính Hãng-1.jpg",
+      "Samsung Galaxy A54 5G 256GB Chính Hãng-2.jpg",
+      "Samsung Galaxy A54 5G 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 9390000,
+    "rating": 4.7,
+    "price_before_discount": 11490000,
+    "quantity": 48,
+    "sold": 74,
+    "view": 210,
+    "name": "Samsung Galaxy A54 5G 256GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy A54 256GB được trang bị màn hình AMOLED rộng 6,4 inch với độ phân giải Full HD cho khả năng hiển thị rõ ràng, sắc nét. Bên cạnh đó, nó còn sở hữu hiệu năng ổn định nhờ chipset Exynos 1380 (5nm). Với dung lượng pin 5000mAh cho bạn thời gian trải nghiệm dài lâu.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy A54 5G 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T12:49:48.386Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T08:54:45.773Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acfac72fb529025859729f"
+    },
+    "images": [
+      "Samsung Galaxy S21 FE 5G 128GB Chính Hãng-1.jpg",
+      "Samsung Galaxy S21 FE 5G 128GB Chính Hãng-2.jpg",
+      "Samsung Galaxy S21 FE 5G 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 9990000,
+    "rating": 5,
+    "price_before_discount": 13990000,
+    "quantity": 17453,
+    "sold": 97,
+    "view": 259,
+    "name": "Samsung Galaxy S21 FE 5G 128GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy S21 FE 5G 128GB là phiên bản chính hãng Samsung, mới 100% với tình trạng nguyên seal máy, nhận bảo hành 12 tháng tại hệ thống ủy quyền, đồng thời nhận nhiều ưu đãi, khuyến mãi hấp dẫn.<br>Galaxy S21 Fan Edition 5G 128GB thiết kế khung viền siêu mỏng, có 4 tuỳ chọn màu sắc tươi tắn. Hỗ trợ màn hình có độ lớn 6.41 inch cùng công nghệ AMOLED với tần số làm mới chạm mức 120Hz. Hiệu năng hoạt động dựa trên con chip Exynos 2100 mạnh mẽ, giúp xử lý tác vụ cực mượt. Bộ 3 camera 12MP, camera selfie 32MP. Dung lượng pin 4500mAh, hỗ trợ đi kèm sạc nhanh 25W và sạc không dây 15W.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy S21 FE 5G 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:25:27.965Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T08:51:28.459Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acfb7c2fb52902585972a0"
+    },
+    "images": [
+      "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng-1.jpg",
+      "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng-2.jpg",
+      "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng-3.jpg"
+    ],
+    "price": 20690000,
+    "rating": 4.6,
+    "price_before_discount": 29990000,
+    "quantity": 359987,
+    "sold": 183,
+    "view": 635,
+    "name": "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy S23+ 5G 512GB sở hữu thiết kế hiện đại, cao cấp với màn hình rộng 6.6 inch, cùng công nghệ màn hình Dynamic AMOLED 2X, 120Hz. Máy được trang bị hiệu năng mạnh mẽ với Snapdragon 8 Gen 2, hệ điều hành Android 12 giao diện One UI 4.0. Đồng thời camera 50MP cũng là điểm nhấn đặc biệt trên máy.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy S23 Plus 5G 512GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:28:28.419Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-20T16:27:25.673Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acfdd42fb52902585972a2"
+    },
+    "images": [
+      "Samsung Galaxy A34 5G 128GB Chính Hãng-1.jpg",
+      "Samsung Galaxy A34 5G 128GB Chính Hãng-2.jpg",
+      "Samsung Galaxy A34 5G 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 6990000,
+    "rating": 4.785,
+    "price_before_discount": 8490000,
+    "quantity": 1598,
+    "sold": 36,
+    "view": 123,
+    "name": "Samsung Galaxy A34 5G 128GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy A34 128GB sở hữu thiết kế mỏng nhẹ, bo cong bốn góc cạnh mềm mại. Chiếc smartphone này được trang bị màn hình Super AMOLED mang đến trải nghiệm mượt mà. Bên cạnh đó, điện thoại còn sở hữu sức mạnh từ con chip Dimensity 1080. Ngoài ra, với dung lượng pin 5000nmAh cho phép người dùng trải nghiệm dài lâu.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy A34 5G 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:38:28.959Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T01:20:52.393Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afad846ef5b902180aacb0"
+    },
+    "images": [
+      "Samsung Galaxy A14 128GB Chính Hãng-1.jpg",
+      "Samsung Galaxy A14 128GB Chính Hãng-2.jpg",
+      "Samsung Galaxy A14 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 3390000,
+    "rating": 5,
+    "price_before_discount": 4290000,
+    "quantity": 100123,
+    "sold": 31500,
+    "view": 7462,
+    "name": "Samsung Galaxy A14 128GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy A14 128GB sở hữu thiết kế mỏng nhẹ, bo cong bốn góc cạnh mềm mại. Chiếc smartphone này được trang bị màn hình LCD với tần số quét 60Hz mang đến trải nghiệm mượt mà. Bên cạnh đó, điện thoại còn sở hữu sức mạnh từ con chip Exynos 850. Ngoài ra, với dung lượng pin 5000nmAh cho phép người dùng trải nghiệm dài lâu.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy A14 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:32:36.605Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T10:25:58.129Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afb07e6ef5b902180aacb6"
+    },
+    "images": [
+      "Samsung Galaxy A04 32GB Chính Hãng-1.jpg",
+      "Samsung Galaxy A04 32GB Chính Hãng-2.jpg",
+      "Samsung Galaxy A04 32GB Chính Hãng-3.jpg"
+    ],
+    "price": 2190000,
+    "rating": 5,
+    "price_before_discount": 2990000,
+    "quantity": 409,
+    "sold": 1000,
+    "view": 3903,
+    "name": "Samsung Galaxy A04 32GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy A04 32GB sở hữu thiêt kế hiện đại, nhỏ gọn với tấm nền IPS LCD rộng 6.5 inch có độ phân giải 720 x 1600 pixel. Máy sở hữu bộ đôi camera với camera chính lên đến 50 MP và camera phụ 2MP. Bên cạnh đó, chiếc smartphone này cũng được chạy trên hệ điều hành Android 12. Ngoài ra, máy còn được trang bị dung lượng pin khung lên đến 5000mAh cho trải nghiệm dài lâu.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy A04 32GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:45:18.517Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:34:41.160Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afb14d6ef5b902180aacb7"
+    },
+    "images": [
+      "Samsung Galaxy A05s 128G Chính Hãng-1.jpg",
+      "Samsung Galaxy A05s 128G Chính Hãng-2.jpg",
+      "Samsung Galaxy A05s 128G Chính Hãng-3.jpg"
+    ],
+    "price": 3590000,
+    "rating": 5,
+    "price_before_discount": 3990000,
+    "quantity": 269,
+    "sold": 5600,
+    "view": 4931,
+    "name": "Samsung Galaxy A05s 128GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy A05s 128G Chính Hãng là chiếc smartphone series A mới nhất của Samsung sở hữu thiết kế tinh tế, hiệu suất mạnh mẽ và màn hình rộng rãi. Dù có mức giá phải chăng, sản phẩm vẫn sở hữu pin khủng cho bạn thoải mái sử dụng trong thời gian dài.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy A05s 128G Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:48:45.577Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:36:18.515Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60aba7e3dbfa6e153cb9962a"
+    },
+    "images": [
+      "Samsung Galaxy A05 128GB Chính Hãng-1.jpg",
+      "Samsung Galaxy A05 128GB Chính Hãng-2.jpg",
+      "Samsung Galaxy A05 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 2890000,
+    "rating": 4.8,
+    "price_before_discount": 3190000,
+    "quantity": 8623,
+    "sold": 4900,
+    "view": 365,
+    "name": "Samsung Galaxy A05 128GB Chính Hãng",
+    "description": "<p>Bộ sản phẩm bao gồm<br>Thân máy, Cáp sạc, Tài liệu hướng dẫn, Dụng cụ lấy SIM, Túi giấy cao cấp<br>Bảo hành<br>Bảo hành Hư lỗi - Đổi mới trong vòng 33 ngày. Bảo hành độc quyền 02 năm.<br>Bảo hành Hư lỗi - Đổi mới 12 tháng.<br>Samsung Galaxy A05 128GB là dòng series A tiếp theo của Samsung sở hữu vẻ ngoài thanh lịch, hiệu năng ổn định với màn hình sử dụng rộng rãi. Sản phẩm thuộc phân khúc giá rẻ này còn được trang bị dung lượng pin trâu mà người dùng sẽ có được trải nghiệm trọn vẹn nhất.</p>",
+    "category": {
+      "$oid": "60afafe76ef5b902180aacb5"
+    },
+    "image": "Samsung Galaxy A05 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-24T13:19:31.521Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:49.894Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60aba9a2dbfa6e153cb9962b"
+    },
+    "images": [
+      "Xiaomi 13T 256GB Chính Hãng-1.jpg",
+      "Xiaomi 13T 256GB Chính Hãng-2.jpg",
+      "Xiaomi 13T 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 11490000,
+    "rating": 5,
+    "price_before_discount": 12990000,
+    "quantity": 23565,
+    "sold": 3800,
+    "view": 866,
+    "name": "Điện thoại Xiaomi 13T 256GB Chính Hãng",
+    "description": "<p>Xiaomi 13T sở hữu hệ thống camera Leica chuyên nghiệp hỗ trợ chụp ảnh chất lượng cao. <br> Thiết kế mỏng nhẹ cho trải nghiệm cầm nắm đã tay và chắc chắn. Đặc biệt, chip xử lý thế hệ mới từ nhà Mediatek cũng hứa hẹn mang đến hiệu năng tuyệt vời. <br> Màn hình AMOLED cao cấp, đạt tần số quét 144Hz hấp dẫn. <br> Sự kết hợp hoàn hảo giữa Xiaomi 13T và Leica để mang đến hệ thống camera chụp ảnh chuyên nghiệp. <br> Hiệu năng mạnh mẽ nhờ chip xử lý Dimensity 8200-Ultra. <br> Bộ đôi pin khủng 5000mAh và sạc nhanh 67W kéo dài thời lượng hoạt động suốt cả ngày mà không bị gián đoạn quá lâu do sạc pin. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: 1.5K (1220 x 2712 Pixels) <br> Độ phân giải Camera trước: 20 MP <br> Độ phân giải Camera sau: Chính 50 MP & Phụ 50 MP, 12 MP <br> Hệ điều hành: Android 13 <br> Chip xử lý (CPU): MediaTek Dimensity 8200-Ultra <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi 13T 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-24T13:26:58.072Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T08:26:39.838Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60abb7acdbfa6e153cb99630"
+    },
+    "images": [
+      "Xiaomi Redmi Note 12 128GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi Note 12 128GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi Note 12 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 3990000,
+    "rating": 4.66,
+    "price_before_discount": 4500000,
+    "quantity": 2119,
+    "sold": 2200,
+    "view": 756,
+    "name": "Điện thoại Xiaomi Redmi Note 12 128GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi Note 12 128GB là thiết bị tầm trung hấp dẫn nhất của Xiaomi ở thời điểm hiện tại. <br> Thương hiệu điện thoại Trung Quốc đã mang đến thiết kế đẹp cùng cấu hình ấn tượng nhưng vẫn duy trì mức giá rẻ. <br> Chiếc smartphone này cũng sở hữu tấm nền AMOLED rộng 6.67 inch với tần số quét 120Hz mang đến cho bạn trải nghiệm nghe nhìn mượt mà, nhanh chóng. <br> Đường nét điện thoại tinh tế với bốn góc bo cong mềm mại, tạo cảm giác chắc chắn và thoải mái khi cầm trên tay. <br> Mặt lưng của máy được làm từ chất liệu nhựa nhám giúp tránh tình trạng bám dấu vân tay và mồ hôi. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Full HD+ (1080 x 2400 Pixels) <br> Độ phân giải Camera trước: 13 MP <br> Độ phân giải Camera sau: Chính 50 MP & Phụ 8 MP, 2 MP <br> Hệ điều hành: Android 13 <br> Chip xử lý (CPU): Snapdragon 685 8 nhân <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi Note 12 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-24T14:26:52.402Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-29T03:37:32.826Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acf1a12fb529025859729a"
+    },
+    "images": [
+      "Xiaomi Redmi A2 32GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi A2 32GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi A2 32GB Chính Hãng-3.jpg"
+    ],
+    "price": 1700000,
+    "rating": 4.2,
+    "price_before_discount": 2200000,
+    "quantity": 195,
+    "sold": 185,
+    "view": 328,
+    "name": "Điện thoại Xiaomi Redmi A2 32GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi A2 xuất hiện trong phân khúc giá rẻ với thiết kế đơn giản nhưng hiệu năng và tính năng lại rất nổi bật. <br> Máy được trang bị chip Helio G36 cho phép xử lý tác vụ ổn định, màn hình 6.52 inch đáp ứng nhu cầu hiển thị rộng rãi và trải nghiệm cầm nắm vừa vặn. <br> Xiaomi Redmi A2 sở hữu ngoại hình không có nhiều sự khác biệt so với chiếc A1 đã ra mắt trước đó với thiết kế trẻ trung tối giản quen thuộc <br> Kích thước điện thoại là 164.9 x 76.8 x 9.1 mm với trọng lượng 192g khá vừa vặn khi trải nghiệm cầm nắm trên tay. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: HD+ (720 x 1600 Pixels) <br> Độ phân giải Camera trước: 5 MP <br> Độ phân giải Camera sau: Chính 8 MP & Phụ QVGA (248 x 328 Pixels) <br> Hệ điều hành: Android 13 (Go Edition) <br> Chip xử lý (CPU): MediaTek Helio G36 8 nhân <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi A2 32GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T12:46:25.071Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:42.176Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acfa312fb529025859729e"
+    },
+    "images": [
+      "Xiaomi Redmi Note 12S 256GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi Note 12S 256GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi Note 12S 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 5890000,
+    "rating": 4.77,
+    "price_before_discount": 6500000,
+    "quantity": 19,
+    "sold": 28,
+    "view": 95,
+    "name": "Điện thoại Xiaomi Redmi Note 12S 256GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi Note 12S 256GB Chính Hãng là chiếc điện thoại tầm trung mới của Xiaomi. <br> Điện thoại có màn hình 6.43 inches cùng cấu hình ổn định với chipset Helio G96. <br> Xiaomi Redmi Note 12S 256GB sở hữu thiết kế ấn tượng với vẻ ngoài bắt mắt đi kèm với cấu hình ổn định trong tầm giá. <br> Xiaomi Redmi Note 12S 256GB sở hữu thiết kế trẻ trung và hiện đại, phù hợp với các người dùng trẻ, đúng theo phong cách chung của dòng Redmi Note 12 Series <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Full HD+ (1080 x 2400 Pixels) <br> Độ phân giải Camera trước: 16 MP <br> Độ phân giải Camera sau: Chính 108 MP & Phụ 8 MP, 2 MP <br> Hệ điều hành: Android 13 <br> Chip xử lý (CPU): MediaTek Helio G96 8 nhân <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi Note 12S 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:22:57.124Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-21T14:51:05.583Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acfd4d2fb52902585972a1"
+    },
+    "images": [
+      "Xiaomi Redmi Note 12 Pro 4G 256GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi Note 12 Pro 4G 256GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi Note 12 Pro 4G 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 69000,
+    "rating": 4.985,
+    "price_before_discount": 91000,
+    "quantity": 29150,
+    "sold": 16501,
+    "view": 1156,
+    "name": "Điện thoại Xiaomi Redmi Note 12 Pro 4G 256GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi Note 12 Pro 256GB Chính Hãng là chiếc điện thoại tầm trung của Xiaomi. <br> Máy có màn hình 6.67 inches đi kèm cấu hình ổn định nhờ chipset Snapdragon 732G. <br> Xiaomi Redmi Note 12 Pro 4G 256GB là phiên bản cao cấp được tối ưu tốt hơn nhằm mang đến một chiếc smartphone ấn tượng với mức giá hợp lý. <br> Chiếc điện thoại sở hữu màn hình lớn 6,67 inch đi kèm với hiệu năng ổn định và mức pin khủng, tăng trải nghiệm cho người dùng trong các tác vụ và giải trí hàng ngày. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Full HD+ (1080 x 2400 Pixels) <br> Độ phân giải Camera trước: 16 MP <br> Độ phân giải Camera sau: Chính 108 MP & Phụ 8 MP, 2 MP, 2 MP <br> Hệ điều hành: Android 11 <br> Chip xử lý (CPU): Snapdragon 732G 8 nhân <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi Note 12 Pro 4G 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:36:13.145Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:29.493Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acffba2fb52902585972a5"
+    },
+    "images": [
+      "Xiaomi 13 Lite 256GB Chính Hãng-1.jpg",
+      "Xiaomi 13 Lite 256GB Chính Hãng-2.jpg",
+      "Xiaomi 13 Lite 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 8990000,
+    "rating": 5,
+    "price_before_discount": 9500000,
+    "quantity": 27995,
+    "sold": 5,
+    "view": 161,
+    "name": "Điện thoại Xiaomi 13 Lite 256GB Chính Hãng",
+    "description": "<p>Xiaomi 13 Lite có thiết kế sang trọng, màn hình rộng 6.55 inch với độ phân giải Full HD+ mang đến trải nghiệm mãn nhãn. <br> Chiếc điện thoại này còn được trang bị cụm camera có độ phân giải lên đến 64 MP giúp ghi lại những khoảng khắc đáng nhớ. <br> Xiaomi 13 Lite 256GB là một trong những mẫu điện thoại tầm trung được tối ưu hoàn hảo. Với màn hình cong tương tự như Xiaomi 13 Pro. <br> Xiaomi 13 Lite được tinh chỉnh về mặt cấu hình, mang đến mức giá vừa túi hơn, phù hợp với nhu cầu sử dụng của đa số người dùng. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Full HD+ (1080 x 2400 Pixels) <br> Độ phân giải Camera trước: Chính 32 MP & Phụ 8 MP <br> Độ phân giải Camera sau: Chính 50 MP & Phụ 8 MP, 2 MP <br> Hệ điều hành: Android 12 <br> Chip xử lý (CPU): Snapdragon 7 Gen 1 8 nhân<br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi 13 Lite 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:46:34.195Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:18.977Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad01102fb52902585972a7"
+    },
+    "images": [
+      "Xiaomi Redmi 13C 128GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi 13C 128GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi 13C 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 11500000,
+    "rating": 5,
+    "price_before_discount": 12500000,
+    "quantity": 16746,
+    "sold": 2255,
+    "view": 825,
+    "name": "Điện thoại Xiaomi Redmi 13C 128GB Chính Hãng",
+    "description": "<p>Redmi 13C là điện thoại giá rẻ mới nhất của Xiaomi ra mắt trong năm 2023. <br> Chiếc smartphone sở hữu thiết kế được hoàn thiện hơn so với đời trước, với trọng lượng khoảng 203g và dày 9.6mm. <br> Màn hình 6.74 inch và độ phân giải HD+ cho mọi nội dung được hiển thị đầy đủ và chi tiết hơn. <br> Mặt lưng và các cạnh được vát phẳng - điều thường thấy trên các dòng máy thuộc phân khúc cao hơn. <br> Máy cho cảm giác thoải mái khi sử dụng và thuận tiện hơn trong việc di chuyển khi để trong túi áo hay túi xách của bạn. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: HD+ (720 x 1600 Pixels) <br> Độ phân giải Camera trước: 8 MP <br> Độ phân giải Camera sau: Chính 50 MP & Phụ 2 MP <br> Hệ điều hành: Android 12 <br> Chip xử lý (CPU): MediaTek Helio G85 8 nhân<br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi 13C 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:52:16.271Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-02T06:23:58.022Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad01992fb52902585972a8"
+    },
+    "images": [
+      "Xiaomi Redmi Note 13 Pro 256GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi Note 13 Pro 256GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi Note 13 Pro 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 4990000,
+    "rating": 0,
+    "price_before_discount": 5500000,
+    "quantity": 22396,
+    "sold": 0,
+    "view": 294,
+    "name": "Điện thoại Xiaomi Redmi Note 13 Pro 256GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi Note 13 Pro sở hữu thiết kế vuông vức với kích thước 161.2 x 74.3 x 8 mm và trọng lượng 187g. <br> Đặc biệt, mặt trước và sau của thiết bị được làm từ chất liệu kính cường lực Gorilla Victus giúp tăng độ bền bỉ và tính thẩm mỹ của sản phẩm. <br> Viền màn hình của chiếc điện thoại cũng được làm mỏng so với đời tiền nhiệm, mang đến góc nhìn rộng rãi hơn. <br> Xiaomi Redmi Note 13 Pro hoạt động trên tấm nền OLED cao cấp có kích thước 6.67 inch. Với khả năng hiển thị lên đến 68 tỷ màu. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: 1.5K (1220 x 2712 Pixels) <br> Độ phân giải Camera trước: 16 MP <br> Độ phân giải Camera sau: Chính 200 MP & Phụ 8 MP, 2 MP <br> Hệ điều hành: Android 13 <br> Chip xử lý (CPU): Adreno 710 <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi Note 13 Pro 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:54:33.233Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T03:34:34.238Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad02422fb52902585972a9"
+    },
+    "images": [
+      "Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 8490000,
+    "rating": 5,
+    "price_before_discount": 9200000,
+    "quantity": 1959,
+    "sold": 36,
+    "view": 357,
+    "name": "Điện thoại Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi Note 12 Pro 5G sở hữu ngoại hình trẻ trung, màu sắc hiện đại. <br> Mặt lưng được hoàn thiện bằng chất liệu kính và khung viền kim loại vuông vức, sang trọng. <br> Chiếc smartphone này cũng sở hữu tấm nền AMOLED rộng 6.67 inch với tần số quét 120Hz mang đến trải nghiệm nghe nhìn mượt mà, nhanh chóng. <br> Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng được nâng cấp và cải tiến với nhiều tính năng vượt trội trong tầm giá. <br> Chip xử lý Mediatek Dimensity 1080 cũng ghi điểm với tốc độ xử lý nhanh, hỗ trợ “cân” tốt các game hot trên thị trường. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Full HD+ (1080 x 2400 Pixels) <br> Độ phân giải Camera trước: 16 MP <br> Độ phân giải Camera sau: Sony IMX766 50MP (wide), 8MP (ultrawide) và 2MP (macro) <br> Hệ điều hành: Android 13 <br> Chip xử lý (CPU): MediaTek Dimensity 1080 <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi Note 12 Pro 5G 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:57:22.760Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-29T13:23:36.973Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad02f62fb52902585972aa"
+    },
+    "images": [
+      "Xiaomi Redmi Note 13 128GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi Note 13 128GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi Note 13 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 3750000,
+    "rating": 0,
+    "price_before_discount": 4200000,
+    "quantity": 3000,
+    "sold": 0,
+    "view": 249,
+    "name": "Điện thoại Xiaomi Redmi Note 13 128GB Chính Hãng",
+    "description": "<p>Redmi Note 13 5G là thế hệ điện thoại mới của dòng Redmi Note, nằm trong phân khúc bình dân. <br> Chiếc smartphone được cải tiến về nhiều mặt, điển hình trong đó là thiết kế nhỏ gọn, vuông vức với trọng lượng chỉ khoảng 173.5g. <br> Màn hình AMOLED 6.67 inch đi kèm tần số quét 120Hz và chip xử lý Dimensity 6080 cũng đáp ứng tốt nhu cầu sử dụng và giải trí hàng ngày. <br> Khung viền được làm bằng kim loại cao cấp, không chỉ đảm bảo độ bền mà còn tạo nên vẻ sang trọng và hấp dẫn. <br> Bề mặt được hoàn thiện từ chất liệu nhám. Điều này mang lại cảm giác mượt mà và sang trọng cho thiết bị nếu so với các sản phẩm trong tầm giá. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: 1080 x 2400 pixels <br> Độ phân giải Camera trước: 16 MP <br> Độ phân giải Camera sau: 100MP + 2MP <br> Hệ điều hành: Android 13, MIUI 14 <br> Chip xử lý (CPU): Mali-G57 MC2 <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi Note 13 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:00:22.209Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T10:26:18.412Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad04392fb52902585972ac"
+    },
+    "images": [
+      "Xiaomi Redmi 12C 64GB Chính Hãng-1.jpg",
+      "Xiaomi Redmi 12C 64GB Chính Hãng-2.jpg",
+      "Xiaomi Redmi 12C 64GB Chính Hãng-3.jpg"
+    ],
+    "price": 3500000,
+    "rating": 4.8,
+    "price_before_discount": 4200000,
+    "quantity": 23210,
+    "sold": 898,
+    "view": 1575,
+    "name": "Điện thoại Xiaomi Redmi 12C 64GB Chính Hãng",
+    "description": "<p>Xiaomi Redmi 12C 64GB BH19T là một chiếc điện thoại tầm trung với hiệu năng đáp ứng tốt các nhu cầu cơ bản của người dùng. <br> Xiaomi Redmi 12C được trang bị của chip Helio G85, thế hệ điện thoại tiếp theo của Xiaomi sở hữu hiệu năng mạnh mẽ trong tầm giá. <br> Máy được trang bị bộ ống kính 50MP, giúp người dùng bắt trọn mọi khoảnh khắc trong cuộc sống và thực hiện nhiều tác vụ liên quan đến nhiếp ảnh một cách dễ dàng. <br> Điện thoại có trọng lượng khá nhẹ chỉ 192g, mang lại cảm giác cầm tay chắc chắn, vừa vặn trong thời gian dài mà không gây khó chịu cho người dùng. <br> Máy cũng có cổng sạc 3.5mm chuyên dụng, giúp người dùng có thể dễ dàng nghe nhạc và gọi điện bằng tai nghe có dây. <br> Redmi 12C còn được làm từ chất liệu nhựa cao cấp với những đường vân sọc nổi bật giúp tăng tính thẩm mỹ cho thiết bị. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: 720 x 1650 pixels <br> Độ phân giải Camera trước: 5MP <br> Độ phân giải Camera sau: 50MP chính & 0.08MP chiều sâu <br> Hệ điều hành: Android 13 <br> Chip xử lý (CPU): Mediatek Helio G85 <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "60aba4e24efcc70f8892e1c6"
+    },
+    "image": "Xiaomi Redmi 12C 64GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:05:45.785Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T09:50:47.173Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60af6f7bf1a3041b289d8b9c"
+    },
+    "images": [
+      "OPPO Find N3 Flip 256GB Chính Hãng-1.jpg",
+      "OPPO Find N3 Flip 256GB Chính Hãng-2.jpg",
+      "OPPO Find N3 Flip 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 22900000,
+    "rating": 4.2,
+    "price_before_discount": 23900000,
+    "quantity": 552,
+    "sold": 11,
+    "view": 2005,
+    "name": "Điện thoại OPPO Find N3 Flip 256GB Chính Hãng",
+    "description": "<p>OPPO Find N3 Flip là thế điện thoại gập OPPO tiếp theo ra mắt tại thị trường Việt Nam. <br> Máy vẫn duy trì kích thước tương tự như đời tiền nhiệm, nhưng có sự thay đổi về thiết kế module camera sau. <br> Chất lượng ảnh chụp được nâng tầm hơn nhờ sự hợp tác với Hasselblad và cảm biến chính lên đến 50MP. <br> Hiệu năng mạnh mẽ từ chip Dimensity 9200 cũng hỗ trợ xử lý tốt mọi yêu cầu của người dùng. <br> OPPO Find N3 Flip vẫn giữ vững khung kim loại chắc chắn và góc cạnh mềm mại, tạo nên một trải nghiệm sử dụng thoải mái và ấn tượng. <br> Máy có kích thước 166.4 x 75.8 x 7.8 mm và nhờ thiết kế gập đặc trưng nên bạn có thể bỏ túi mang theo bên mình dễ dàng. <br> Công nghệ màn hình: LTPO AMOLED (màn hình chính) / AMOLED (màn hình phụ) <br> Độ phân giải: 1080 x 2520 pixels (màn hình chính) / 382 x 720 pixels (màn hình phụ) <br> Độ phân giải Camera trước: 32MP <br> Độ phân giải Camera sau: 50MP OIS (Chính) + 48MP (Góc rộng) + 32MP (Tele) <br> Hệ điều hành: Android 13, ColorOS 13.2 <br> Chip xử lý (CPU): Mediatek Dimensity 9200 <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO Find N3 Flip 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T10:07:55.092Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T12:49:58.814Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60af70fbf1a3041b289d8ba0"
+    },
+    "images": [
+      "OPPO Find N3 512GB Chính Hãng-1.jpg",
+      "OPPO Find N3 512GB Chính Hãng-2.jpg",
+      "OPPO Find N3 512GB Chính Hãng-3.jpg"
+    ],
+    "price": 22990000,
+    "rating": 4.5,
+    "price_before_discount": 23990000,
+    "quantity": 2988,
+    "sold": 456,
+    "view": 2254,
+    "name": "Điện thoại OPPO Find N3 512GB Chính Hãng",
+    "description": "<p>OPPO Find N3 là thế hệ điện thoại gập ngang đầu tiên của OPPO được ra mắt tại thị trường Việt Nam. <br> Máy có thiết kế gập như quyển sách với module camera sau hình tròn đầy thanh lịch và tinh tế, mang đến nét ấn tượng mới cho dòng điện thoại gập OPPO. <br> Khả năng nhiếp ảnh cũng được tăng cường với ống kính Hasselblad. <br> Đặc biệt, chip Snapdragon 8 Gen 2 và dung lượng pin đến 4805 mAh sẽ mang đến hiệu năng mạnh mẽ và kéo dài thời gian sử dụng suốt cả ngày dài. <br> Thiết kế mỏng nhẹ với trọng lượng 239g, độ dày chỉ 5.8mm khi mở ra và 11.7mm khi gập lại. <br> Màn hình Canvas độc đáo và sáng tạo với kích thước lớn hơn đời trước. <br> Công nghệ màn hình: AMOLED / Tần số quét: 120Hz <br> Độ phân giải: 2268 x 2440 pixels (màn hình chính) / 1116 x 2484 pixels (màn hình phụ) <br> Độ phân giải Camera trước: 20MP (màn hình chính) / 32MP (màn hình phụ) <br> Độ phân giải Camera sau: 48MP OIS (Chính) + 48MP (Góc rộng) + 64MP (Tele) <br> Hệ điều hành: Android 13, ColorOS 13.2 <br> Chip xử lý (CPU): Snapdragon 8 Gen 2 <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO Find N3 512GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T10:14:19.185Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:46:19.443Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60af722af1a3041b289d8ba1"
+    },
+    "images": [
+      "OPPO A17K 64GB Chính Hãng-1.jpg",
+      "OPPO A17K 64GB Chính Hãng-2.jpg",
+      "OPPO A17K 64GB Chính Hãng-3.jpg"
+    ],
+    "price": 2790000,
+    "rating": 4.1,
+    "price_before_discount": 3200000,
+    "quantity": 75,
+    "sold": 55,
+    "view": 3024,
+    "name": "Điện thoại OPPO A17K 64GB Chính Hãng",
+    "description": "<p>OPPO A17K là sản phẩm mới vừa được cho ra mắt của nhà OPPO, sở hữu vẻ ngoài với thiết kế hiện đại, tinh tế và tỉ mỉ trong từng chi tiết. <br> Được trang bị màn hình rộng lớn giúp nâng cao trải nghiệm của người dùng. Bên cạnh đó, với dung lượng pin lên đến 5000mAh, bạn có thể tha hồ giải trí, làm việc. <br> Camera hỗ trợ người dùng ghi lại khoảnh khắc nhanh chóng. <br> Chipset MediaTek Helio G35 8 nhân mang lại hiệu năng ổn định. <br> Đây là chiếc smartphone thuộc tầm phân khúc giá rẻ nhưng vẫn đáp ứng được các nhu cầu cơ bản của người dùng. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: HD+ (720 x 1612 Pixels) <br> Độ phân giải Camera trước: 5 MP <br> Độ phân giải Camera sau: 8 MP <br> Hệ điều hành: Android 12 <br> Chip xử lý (CPU): MediaTek Helio G35 8 nhân <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO A17K 64GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T10:19:22.177Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:24:54.976Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60abae5ddbfa6e153cb9962f"
+    },
+    "images": [
+      "OPPO A78 256GB Chính Hãng-1.jpg",
+      "OPPO A78 256GB Chính Hãng-2.jpg",
+      "OPPO A78 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 57000,
+    "rating": 4.88,
+    "price_before_discount": 59000,
+    "quantity": 1610,
+    "sold": 12500,
+    "view": 1324,
+    "name": "Điện thoại OPPO A78 256GB Chính Hãng",
+    "description": "<p>OPPO A78 256GB là mẫu điện thoại tầm trung mới nhất được OPPO ra mắt trong năm 2023. <br> Chiếc smartphone hứa hẹn sẽ thổi làn gió mới trong phân khúc giá với chip xử lý Qualcomm Snapdragon 680 được hỗ trợ mạng 4G. <br> RAM 8GB đem đến khả năng chạy đa nhiệm siêu mượt và viên pin 5000 mAh hỗ trợ hoạt động suốt cả ngày dài. <br> OPPO A78 256GB đã đánh dấu một bước đột phá trong việc thiết kế điện thoại tầm trung. Mặt lưng như một ma trận kim cương, A78 đã mang đến một trải nghiệm thị giác tuyệt vời cho người dùng. <br> Chiếc điện thoại có bề mặt tinh thể mịn màng, mặt lưng và các cạnh bên đều cho cảm giác tự nhiên, không bám dấu vân tay. <br> Thiết kế OPPO A78 càng được nâng cao bởi phần module camera được thiết kế độc đáo và kéo dài hơn so với phiên bản trước đó. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: 2400 x 1080 pixels <br> Độ phân giải Camera trước: 8 MP <br> Độ phân giải Camera sau: 50MP + 2MP <br> Hệ điều hành: Android 13, ColorOS 13.1 <br> Chip xử lý (CPU): Snapdragon 680 4G (6 nm) <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO A78 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-24T13:47:09.028Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T07:44:27.976Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acf4262fb529025859729d"
+    },
+    "images": [
+      "OPPO A58 4G 128GB Chính Hãng-1.jpg",
+      "OPPO A58 4G 128GB Chính Hãng-2.jpg",
+      "OPPO A58 4G 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 4590000,
+    "rating": 4.8,
+    "price_before_discount": 5000000,
+    "quantity": 54986,
+    "sold": 49,
+    "view": 714,
+    "name": "Điện thoại OPPO A58 4G 128GB Chính Hãng",
+    "description": "<p>OPPO A58 4G 128GB tiếp tục là chiếc điện thoại giá rẻ mới ra mắt trong năm 2023 của thương hiệu OPPO. <br> Máy sở hữu thiết kế tuyệt đẹp với bề mặt tinh thể mượt mà và màu sắc được lấy cảm hứng từ lụa. <br> Hiệu năng ổn định từ chip Helio G85 đi kèm dung lượng RAM 6GB cho khả năng chạy đa nhiệm lý tưởng trong tầm giá. <br> OPPO A58 4G sở hữu một ngôn ngữ thiết kế hoàn hảo trong phân khúc tầm trung giá rẻ. Thiết kế mặt lưng cong 2.8D cùng với thân máy mỏng 7.99mm tạo cảm giác cầm tay vừa vặn và chắc chắn. <br> Trọng lượng nhẹ chỉ 192g giúp người dùng thoải mái mang theo máy đến bất kỳ đâu mà không bị cấn hay khó chịu. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: 1080 x 2400 pixels <br> Độ phân giải Camera trước: 8 MP <br> Độ phân giải Camera sau: 50MP + 2MP <br> Hệ điều hành: Android 13, ColorOS 13.1 <br> Chip xử lý (CPU): Helio G85 <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO A58 4G 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T12:57:10.573Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-02T12:52:55.083Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60acfe9c2fb52902585972a3"
+    },
+    "images": [
+      "OPPO Reno8 T 5G 128GB Chính Hãng-1.jpg",
+      "OPPO Reno8 T 5G 128GB Chính Hãng-2.jpg",
+      "OPPO Reno8 T 5G 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 7490000,
+    "rating": 4.95,
+    "price_before_discount": 8200000,
+    "quantity": 8201,
+    "sold": 4250,
+    "view": 400,
+    "name": "Điện thoại OPPO Reno8 T 5G 128GB Chính Hãng",
+    "description": "<p>OPPO RENO8 T sau khi ra mắt mang đến cho bạn những điểm hơn có thể gây bất ngờ và ấn tượng so với dòng tiền nhiệm. <br> OPPO đã không ngừng nghiên cứu và đưa vào thiết bị này tính thẩm mỹ cao với màu sặc có thể chuyển đổi kết hợp các tính năng thông minh và dung lượng pin cung cấp nhiều giờ sử dụng cho OPPO Reno8 T. <br> OPPO Reno8 T sở hữu camera sau lên đến 108MP cùng nhiều tính năng hiện đại. <br> Thiết kế OPPO Reno8 T trẻ mặt lưng chuyển màu gradient độc đáo. <br> Hiệu năng OPPO Reno8 T hoạt động mạnh mẽ nhờ chipset Snapdragon 695 5G. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Full HD+ (1080 x 2412 Pixels) <br> Độ phân giải Camera trước: 32 MP <br> Độ phân giải Camera sau: Chính 108 MP & Phụ 2 MP, 2 MP <br> Hệ điều hành: Android 13 - ColorOS 13 <br> Chip xử lý (CPU): Snapdragon 695 5G 8 nhân <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO Reno8 T 5G 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:41:48.165Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-04T02:59:53.719Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad004c2fb52902585972a6"
+    },
+    "images": [
+      "OPPO Find N2 Flip 256GB Chính Hãng-1.jpg",
+      "OPPO Find N2 Flip 256GB Chính Hãng-2.jpg",
+      "OPPO Find N2 Flip 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 19990000,
+    "rating": 5,
+    "price_before_discount": 21990000,
+    "quantity": 6797,
+    "sold": 21,
+    "view": 596,
+    "name": "Điện thoại OPPO Find N2 Flip 256GB Chính Hãng",
+    "description": "<p>OPPO Find N2 Flip là chiếc điện thoại gập đầu tiên của OPPO ra mắt tại thị trường Việt Nam. <br> Thế hệ smartphone màn hình gập tiếp theo của thương hiệu OPPO vẫn sở hữu vẻ ngoài tinh tế giúp dễ dàng bỏ túi và mang theo bên người. <br> Chất lượng ảnh chụp của điện thoại cũng được nâng cấp tốt hơn với công nghệ chụp ảnh mới. <br> Trọng lượng của OPPO Find N2 Flip khá nhẹ, chỉ 191g. Vậy nên người dùng dễ dàng mang theo bên người hoặc bỏ túi đầy tinh tế. <br> Với sự cải tiến nằm ở màn hình phụ, người dùng có thể xem một lúc 5 thông báo đến từ các ứng dụng khác nhau. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Màn hình chính: 2520x1080 pixels / Màn hình phụ: 720 x 382 pixels <br> Độ phân giải Camera trước: 32 MP <br> Độ phân giải Camera sau: 50MP (wide) + 8MP (ultrawide) <br> Hệ điều hành: Android 13 - ColorOS 13.0 <br> Chip xử lý (CPU): MediaTek Dimensity 9000+ <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO Find N2 Flip 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T13:49:00.060Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-05T05:16:25.414Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60ad03872fb52902585972ab"
+    },
+    "images": [
+      "OPPO A17 64GB Chính Hãng-1.jpg",
+      "OPPO A17 64GB Chính Hãng-2.jpg",
+      "OPPO A17 64GB Chính Hãng-3.jpg"
+    ],
+    "price": 2790000,
+    "rating": 4.9,
+    "price_before_discount": 3290000,
+    "quantity": 3224,
+    "sold": 523,
+    "view": 1145,
+    "name": "Điện thoại OPPO A17 64GB Chính Hãng",
+    "description": "<p>OPPO A17K là sản phẩm mới vừa được cho ra mắt của nhà OPPO. Chiếc smartphone này sở hữu vẻ ngoài với thiết kế hiện đại, tinh tế và tỉ mỉ trong từng chi tiết. <br> Được trang bị màn hình rộng lớn cùng dung lượng pin lên đến 5000mAh giúp bạn có thể tha hồ giải trí, làm việc. <br> Chiếc điện thoại thuộc dòng OPPO A Series này đã gây ấn tượng sâu sắc, ởi đây là chiếc smartphone thuộc tầm phân khúc giá rẻ nhưng vẫn đáp ứng được các nhu cầu cơ bản của người dùng. <br> Camera hỗ trợ người dùng ghi lại khoảnh khắc nhanh chóng. <br> Chipset MediaTek Helio G35 8 nhân mang lại hiệu năng ổn định. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: Màn hình chính: HD+ (720 x 1612 Pixels) <br> Độ phân giải Camera trước: 5 MP <br> Độ phân giải Camera sau: 8 MP <br> Hệ điều hành: Android 12 <br> Chip xử lý (CPU): MediaTek Helio G35 8 nhân <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO A17 64GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-25T14:02:47.426Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T10:04:48.735Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60af6f12f1a3041b289d8b9b"
+    },
+    "images": [
+      "OPPO Reno10 5G 256GB Chính Hãng-1.jpg",
+      "OPPO Reno10 5G 256GB Chính Hãng-2.jpg",
+      "OPPO Reno10 5G 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 10290000,
+    "rating": 5,
+    "price_before_discount": 11290000,
+    "quantity": 52,
+    "sold": 5,
+    "view": 1864,
+    "name": "Điện thoại OPPO Reno10 5G 256GB Chính Hãng",
+    "description": "<p>OPPO Reno10 5G 256GB tiếp tục trở thành chuyên gia chân dung đời mới với camera tele 32MP. <br> Điện thoại sở hữu thiết kế thời trang và màn hình siêu nét có tần số quét 120Hz, đi kèm với đó là hiệu năng vượt trội siêu mượt của chip Dimensity 7050 5G. <br> OPPO Reno10 vẫn giữ nguyên thiết kế mỏng nhẹ với kích thước lớn 162.4 x 74.2 x 7.99 mm và chỉ nặng 185g. <br> Thiết kế cong 3D kép 56 độ mang đến góc nhìn rộng rãi và trải nghiệm cầm nắm đã tay. <br> Màn hình siêu lớn lên đến 6.7 inch có tần số quét 120Hz và khả năng hiển thị 1 tỷ màu. <br> Khả năng sạc nhanh 67W ưu việt trong tầm giá, hỗ trợ chơi game thêm 2 tiếng chỉ với 5 phút sạc. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: Màn hình chính: 1080 x 2412 pixels <br> Độ phân giải Camera trước: 32 MP <br> Độ phân giải Camera sau: 64MP + 32MP + 8MP <br> Hệ điều hành: Android 13, ColorOS 13.1 <br> Chip xử lý (CPU): Dimensity 7050 (6 nm) <br> Mạng di động: Hỗ trợ 5G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO Reno10 5G 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T10:06:10.339Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T10:04:40.783Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afadff6ef5b902180aacb1"
+    },
+    "images": [
+      "OPPO A57 128GB Chính Hãng-1.jpg",
+      "OPPO A57 128GB Chính Hãng-2.jpg",
+      "OPPO A57 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 4590000,
+    "rating": 5,
+    "price_before_discount": 5290000,
+    "quantity": 4050,
+    "sold": 2300,
+    "view": 1945,
+    "name": "Điện thoại OPPO A57 128GB Chính Hãng",
+    "description": "<p>OPPO A58 4G 128GB tiếp tục là chiếc điện thoại giá rẻ mới ra mắt trong năm 2023 của thương hiệu OPPO. <br> Máy sở hữu thiết kế tuyệt đẹp với bề mặt tinh thể mượt mà và màu sắc được lấy cảm hứng từ lụa, hiệu năng ổn định từ chip Helio G85 đi kèm dung lượng RAM 6GB. <br> OPPO A58 4G sở hữu một ngôn ngữ thiết kế hoàn hảo trong phân khúc tầm trung giá rẻ. <br> Trọng lượng nhẹ chỉ 192g giúp người dùng thoải mái mang theo máy đến bất kỳ đâu mà không bị cấn hay khó chịu. <br> Mặt lưng tiếp tục sử dụng OPPO Glow độc quyền của hãng nhưng được cải tiến với bề mặt tinh thể mịn hơn, giúp thiết bị toát lên sự quý phái và sang trọng. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: 1080 x 2400 pixels <br> Độ phân giải Camera trước: 8 MP <br> Độ phân giải Camera sau: 50MP + 2MP <br> Hệ điều hành: Android 13, ColorOS 13.1 <br> Chip xử lý (CPU): Helio G85 <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO A57 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:34:39.366Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T07:33:44.147Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afafb76ef5b902180aacb4"
+    },
+    "images": [
+      "OPPO Reno8 T 256GB Chính Hãng-1.jpg",
+      "OPPO Reno8 T 256GB Chính Hãng-2.jpg",
+      "OPPO Reno8 T 256GB Chính Hãng-3.jpg"
+    ],
+    "price": 6790000,
+    "rating": 3.8,
+    "price_before_discount": 7290000,
+    "quantity": 9920,
+    "sold": 728,
+    "view": 6356,
+    "name": "Điện thoại OPPO Reno8 T 256GB Chính Hãng",
+    "description": "<p>OPPO Reno8 T 256GB là một thiết bị di động đầy phong cách và hiện đại, giúp người dùng tôn lên vẻ đẹp của mình như một phụ kiện thời trang. <br> OPPO Reno8 T 256GB hứa hẹn sẽ trở thành một siêu phẩm được mong đợi trong năm nay, làm mưa làm gió trên thị trường di động. <br> Chiếc smartphone này là một trong những sản phẩm mới nhất của OPPO Reno8 Series và đang được đông đảo người dùng quan tâm. <br> Với thiết kế sang trọng, hiện đại và bắt mắt, sản phẩm này chắc chắn sẽ làm hài lòng những người dùng khó tính nhất. <br> Màn hình hiển thị rộng lớn cho trải nghiệm mãn nhãn. <br> Sở hữu camera sau lên đến 100MP cùng nhiều tính năng hiện đại. <br> Hiệu năng hoạt động mạnh mẽ nhờ chip Helio G99. <br> Hệ điều hành mới cho nhiều trải nghiệm mới mẻ. <br> Công nghệ màn hình: AMOLED <br> Độ phân giải: 2400 x 1080 FHD+ <br> Độ phân giải Camera trước: 32 MP <br> Độ phân giải Camera sau: 100MP + 2MP + 2MP <br> Hệ điều hành: ColorOS 13 <br> Chip xử lý (CPU): Helio G99 <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO Reno8 T 256GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:41:59.307Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:37:24.971Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60afb2c76ef5b902180aacba"
+    },
+    "images": [
+      "OPPO A57 128GB Chính Hãng-1.jpg",
+      "OPPO A57 128GB Chính Hãng-2.jpg",
+      "OPPO A57 128GB Chính Hãng-3.jpg"
+    ],
+    "price": 4690000,
+    "rating": 4.6,
+    "price_before_discount": 5290000,
+    "quantity": 138,
+    "sold": 1200,
+    "view": 51203,
+    "name": "Điện thoại OPPO A57 128GB Chính hãng",
+    "description": "<p>OPPO A57 128GB là sản phẩm vừa mới ra mắt thuộc dòng Series A thuộc phân khúc giá rẻ, là chiếc điện thoại giá rẻ đáng mua nhất hiện nay. <br> OPPO A57 được cho là là chiếc điện thoại được lòng rất nhiều người dùng. Bởi chỉ với mức giá hạt dẻ, người dùng có thể trải nghiệm nhiều tính năng độc đáo. <br> Hiệu năng hoạt động ổn định nhờ sự hỗ trợ của chipset MediaTek Helio G35 8 nhân. <br> Trang bị màn hình IPS LCD rộng 6.56 inch cho trải nghiệm rộng lớn. <br> Dung lượng pin lên đến 5000 mAh, sạc siêu nhanh SuperVOOC 33W. <br> Công nghệ màn hình: IPS LCD <br> Độ phân giải: HD+ (720 x 1612 Pixels) <br> Độ phân giải Camera trước: 8 MP <br> Độ phân giải Camera sau: Chính 13 MP & Phụ 2 MP <br> Hệ điều hành: Android 12<br> Chip xử lý (CPU): MediaTek Helio G35 8 nhân <br> Mạng di động: Hỗ trợ 4G <br> </p>",
+    "category": {
+      "$oid": "6548cd47638d40e747bac70a"
+    },
+    "image": "OPPO A57 128GB Chính Hãng-1.jpg",
+    "createdAt": {
+      "$date": "2021-05-27T14:55:03.113Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-06T14:58:18.449Z"
+    },
+    "__v": 0
+  }
+]
