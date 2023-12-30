@@ -73,7 +73,7 @@ const addProduct = async (req: Request, res: Response) => {
     data: productAdd.toObject({
       transform: (doc, ret, option) => {
         delete ret.__v
-        return handleImageProduct(ret)
+        return ret
       },
     }),
   }
@@ -143,7 +143,7 @@ const getProducts = async (req: Request, res: Response) => {
         .lean(),
       ProductModel.find(condition).countDocuments().lean(),
     ])
-  products = products.map((product) => handleImageProduct(product))
+  // products = products.map((product) => handleImageProduct(product))
   const page_size = Math.ceil(totalProducts / limit) || 1
   const response = {
     message: 'Lấy các sản phẩm thành công',
@@ -170,7 +170,7 @@ const getAllProducts = async (req: Request, res: Response) => {
     .sort({ createdAt: -1 })
     .select({ __v: 0, description: 0 })
     .lean()
-  products = products.map((product) => handleImageProduct(product))
+  // products = products.map((product) => handleImageProduct(product))
   const response = {
     message: 'Lấy tất cả sản phẩm thành công',
     data: products,
@@ -191,7 +191,7 @@ const getProduct = async (req: Request, res: Response) => {
   if (productDB) {
     const response = {
       message: 'Lấy sản phẩm thành công',
-      data: handleImageProduct(productDB),
+      data: productDB,
     }
     return responseSuccess(res, response)
   } else {
@@ -242,7 +242,7 @@ const updateProduct = async (req: Request, res: Response) => {
   if (productDB) {
     const response = {
       message: 'Cập nhật sản phẩm thành công',
-      data: handleImageProduct(productDB),
+      data: productDB,
     }
     return responseSuccess(res, response)
   } else {
@@ -298,7 +298,7 @@ const searchProduct = async (req: Request, res: Response) => {
     .sort({ createdAt: -1 })
     .select({ __v: 0, description: 0 })
     .lean()
-  products = products.map((product) => handleImageProduct(product))
+  // products = products.map((product) => handleImageProduct(product))
   const response = {
     message: 'Tìm các sản phẩm thành công',
     data: products,
